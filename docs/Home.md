@@ -1,0 +1,4 @@
+about the author, my favorite resources, writing and editing services I provide, the Morning Pages Newsletter, and my current book projects 
+
+***
+[Facebook](https://www.facebook.com/bykimberseverance) | [Instagram](https://www.instagram.com/bykimberseverance/) | [Threads](https://www.threads.net/@bykimberseverance) | [Twitter](https://twitter.com/SeveranceKimber) | [Tumblr](https://bykimber.tumblr.com/) | [Pinterest](https://www.pinterest.com/bykimberseverance) | [Medium](http://www.medium.com/@kimberseverance) | [Goodreads](https://www.goodreads.com/kimberseverance) | [Substack](https://substack.com/@kimberseverance)
