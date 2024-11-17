@@ -1,4 +1,5 @@
 site_name: ByKimber.com
+site_url: https://yourwebsite.com
 
 theme:
     name: 'material'

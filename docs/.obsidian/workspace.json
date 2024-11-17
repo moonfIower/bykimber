@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "blog/posts/2024-february-reading-wrap-up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2024-february-reading-wrap-up"
             }
           }
         ]
@@ -166,10 +166,10 @@
   },
   "active": "87364ef3bb76fc3d",
   "lastOpenFiles": [
+    "index.md",
     "By Kimber Cover.png",
     "Writing Guide/index.md",
     "About.md",
-    "index.md",
     "Services.md",
     "Resources.md",
     "blog/index.md",
@@ -211,7 +211,6 @@
     "Images/Hidden Cover.png",
     "Images/Butterfly House Cover.png",
     "Images/Teeth Cover.png",
-    "Images/First Witch Cover.png",
     "bykimber.com board.canvas"
   ]
 }

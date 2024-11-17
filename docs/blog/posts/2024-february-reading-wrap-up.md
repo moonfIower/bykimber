@@ -1,6 +1,6 @@
 ---
 draft: false
-date: ""
+date: 2024-02-20
 slug: 2024-february-reading-wrap-up
 categories:
   - reading
