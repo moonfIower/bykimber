@@ -10,13 +10,9 @@ The following are some of my favorite resources including book recommendations, 
 - [​Falling Into Theory: Conflicting Views on Reading Literature by David H. Richter](https://www.goodreads.com/book/show/701397.Falling_Into_Theory)
 ## Writing Playlists
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4vbp2Dklns9kfF83ugJXJD?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2VPY4Tdn3Wkby99bRc9EI6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6naRSihB5Gvuxv8czxjP9K?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6OCdAvdYRDqK7NBX8xYWo8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2laGSd36t9RfE7dT3Z4gBj?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Downloadable Templates

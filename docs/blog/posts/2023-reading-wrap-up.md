@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-04
+date: 2023-12-30
 slug: 2023-reading-wrap-up
 categories:
   - reading

@@ -1,4 +1,13 @@
-*September 24, 2024*
+---
+draft: false
+date: 2024-11-30
+slug: 2024-september-reading-wrap-up
+categories:
+  - reading
+tags:
+  - reading
+---
+# 2024 September Reading Wrap Up
 
 Be forewarned, there are spoilers ahead! Here are the books I recently finished, the books I'm currently reading, and some of the upcoming books waiting on my TBR shelf right now. I hope they inspire you to always be reading and maybe offer up some ideas for what to read next. 
 
@@ -29,6 +38,3 @@ and the rest are the books on my funner TBR shelf: 
 1. Tower of Dawn (TOG 6) by Sarah J. Maas 
 2. Forged by Malice (Beasts of the Briar 3) by Elizabeth Helen
 3. Book 8.5: Calm (Maylak & Kashrem) by Ruby Dixon
-
-***
-[Facebook](https://www.facebook.com/bykimberseverance) | [Instagram](https://www.instagram.com/bykimberseverance/) | [Threads](https://www.threads.net/@bykimberseverance) | [Twitter](https://twitter.com/SeveranceKimber) | [Tumblr](https://bykimber.tumblr.com/) | [Pinterest](https://www.pinterest.com/bykimberseverance) | [Medium](http://www.medium.com/@kimberseverance) | [Goodreads](https://www.goodreads.com/kimberseverance) | [Substack](https://substack.com/@kimberseverance)

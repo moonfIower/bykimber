@@ -1,4 +1,13 @@
-*September 24, 2024*
+---
+draft: false
+date: 2024-11-24
+slug: wolf-witch-update-2
+categories:
+  - reading
+tags:
+  - reading
+---
+# Wolf Witch Update 2
 
 I'm currently writing a fantasy trilogy about the four witches of the apocalypse who are destined to bring about the end of the world, and one young huntress's journey to stop them. 
 
@@ -13,6 +22,3 @@ Sometimes I feel like half of writing is brainstorming through roadblocks where 
 ![[Dragon Witch Series Progress.png]]
 
 Stay up to date on my writing endeavors and the upcoming Dragon Witch Trilogy by following ByKimber on social media.
-
-***
-[Facebook](https://www.facebook.com/bykimberseverance) | [Instagram](https://www.instagram.com/bykimberseverance/) | [Threads](https://www.threads.net/@bykimberseverance) | [Twitter](https://twitter.com/SeveranceKimber) | [Tumblr](https://bykimber.tumblr.com/) | [Pinterest](https://www.pinterest.com/bykimberseverance) | [Medium](http://www.medium.com/@kimberseverance) | [Goodreads](https://www.goodreads.com/kimberseverance) | [Substack](https://substack.com/@kimberseverance)
