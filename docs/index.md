@@ -1,5 +1,8 @@
 # Home
-about the author, my favorite resources, writing and editing services I provide, the Morning Pages Newsletter, and my current book projects 
+## [[About]] | [[Services]] | [[Resources]] | Grammar Guide | Writing Guide | Recommendations
+## Morning Pages | Book Projects | Poetry
+
+Hello, and welcome to my website. My name is Kimber Severance and I am a professional writer and editor with a great love for all things having to do with stories, words, and quality content. The ByKimber website is my personal and professional hub where you can find all things by me, Kimber, including my Morning Pages newsletter, books I'm writing, poetry I've written, the writing, tutoring, and editorial services I provide, and more. Enjoy! 
 
 ***
 [Facebook](https://www.facebook.com/bykimberseverance) | [Instagram](https://www.instagram.com/bykimberseverance/) | [Threads](https://www.threads.net/@bykimberseverance) | [Twitter](https://twitter.com/SeveranceKimber) | [Tumblr](https://bykimber.tumblr.com/) | [Pinterest](https://www.pinterest.com/bykimberseverance) | [Medium](http://www.medium.com/@kimberseverance) | [Goodreads](https://www.goodreads.com/kimberseverance) | [Substack](https://substack.com/@kimberseverance)
