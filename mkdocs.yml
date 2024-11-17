@@ -7,17 +7,13 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: lightish
-      primary: green
-      accent: cream
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: green
-      accent: cream
+      scheme: darkish
       toggle:
         icon: material/weather-night
         name: Switch to light mode
