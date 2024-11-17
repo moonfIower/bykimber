@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar Guide/4. Commonly Confused Words.md",
+                "file": "blog/posts/2023-reading-wrap-up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Commonly Confused Words"
+              "title": "2023-reading-wrap-up"
             }
           }
         ]
@@ -166,13 +166,18 @@
   },
   "active": "87364ef3bb76fc3d",
   "lastOpenFiles": [
+    "Morning Pages/2023 Reading Wrap Up.md",
+    "blog/posts/2023-reading-wrap-up.md",
+    "Writing Guide/Writing Process.md",
+    "blog/index.md",
+    "Book Projects/2. TEETH.md",
+    "Book Projects/1. The Dragon Witch Series.md",
+    "Grammar Guide/4. Commonly Confused Words.md",
     "Grammar Guide/3. Phrases of Speech.md",
     "Grammar Guide/2. Substantive Editing.md",
     "Grammar Guide/1. Copyediting.md",
     "Book Projects/4. The Hidden.md",
     "Book Projects/3. The Butterfly House.md",
-    "Book Projects/2. TEETH.md",
-    "Book Projects/1. The Dragon Witch Series.md",
     "Resources.md",
     "About.md",
     "index.md",
@@ -183,9 +188,6 @@
     "New folder",
     "Writing Guide/Writing Guide.md",
     "Services.md",
-    "blog/posts/hello-world.md",
-    "blog/index.md",
-    "Morning Pages/2023 Reading Wrap Up.md",
     "Books/Untitled.md",
     "Features/Text Formatting.md",
     "Features/Mermaid Diagrams.md",
@@ -197,9 +199,7 @@
     "bykimber/mkdocs.yml",
     "bykimber/docs/blog/posts/hello-world.md",
     "bykimber/docs/Topic 1/Note 2.md",
-    "bykimber/docs/Topic 1/Note 1.md",
     "bykimber/docs/javascripts/mathjax.js",
-    "bykimber/docs/Features/Text Formatting.md",
     "bykimber/docs/blog/posts",
     "bykimber/docs/Topic 1",
     "bykimber/docs/javascripts",

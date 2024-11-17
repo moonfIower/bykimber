@@ -1,3 +1,16 @@
+---
+draft: false
+date: 2024-02-04
+slug: 2023-reading-wrap-up
+categories:
+  - reading
+tags:
+  - reading
+---
+
+
+# 2023 Reading Wrap Up
+
 *February 4, 2024*
 
 I read a total of 20 different books in 2023. My yearly reading goal was to read 30 books in total, but that's ok! Here are the books I read and some of my thoughts on each one. 
