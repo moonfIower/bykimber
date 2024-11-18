@@ -16,12 +16,8 @@
     --md-primary-fg-color--light: #f9f7f4;
     --md-primary-fg-color--dark: #7da17db3;
     --md-typeset-color: #f9f7f4;
+    --md-h1-color: #f9f7f4;
     --md-typeset-a-color: #7da17d;
     --md-footer-bg-color: #2f4f4f80;
     --md-accent-color: #7da17d;
-}
-
-/* Specific rule for H1 in dark mode */
-[data-md-color-scheme="darkish"] h1 {
-    color: #f9f7f4; /* Light color for H1 in dark mode */
 }
