@@ -7,6 +7,7 @@ Most style guides now recommend using more generic pronouns that can easily appl
 The use of the singular “they” in an instance where gender is not known or not relevant has been in practice since 1375 and is perfectly acceptable to avoid the generic “he” or the clunky “he/she” in singular but gender-neutral references.
 
 Legal copy may prefer to use “he/she” for maximum clarity and specificity.
+
 ## Inclusive vs Not Inclusive Language
 | **Inclusive Language**     | **Not Inclusive Language** |
 | -------------------------- | -------------------------- |
@@ -20,21 +21,25 @@ Legal copy may prefer to use “he/she” for maximum clarity and specificity.
 | Humankind, human race      | Mankind, man               |
 | meteorologist              | weatherman                 |
 | nurse                      | Male nurse                 |
+
 ## Person-first language
 Focus on the person rather than their characteristics. Avoid using descriptors that are irrelevant or unnecessary to the context of the situation. 
 
-NO: a blind ==man==, a ==woman== salesperson
-YES: a ==man== who is blind, a ==woman== on our sales team
+NO: a blind **man**, a **woman** salesperson
+YES: a **man** who is blind, a **woman** on our sales team
+
 ## Is it relevant?
 Things like race, gender, or disabilities should only be mentioned when they are necessary and relevant to the context. Otherwise mentioning these modifiers can be left out. 
 
-NO: A ==blind man== came through my line today and bought vegetables.
-YES: Today ==I helped a man who is blind== find the vegetable aisle.
+NO: A **blind man** came through my line today and bought vegetables.
+YES: Today **I helped a man who is blind** find the vegetable aisle.
+
 ## Don't use illnesses as an adjective
 Illnesses, including mental and physical illnesses, should never be used as an adjective or to describe anything other than the actual illness. 
 
 NO: Sarah was being totally bipolar after the math test.
 YES: Sarah was having a hard time after a stressful math test.
+
 ## Race, Ethnicity, Nationality, Religion
 Races, ethnicities, nationalities, and religions are always capitalized.
 
@@ -50,13 +55,15 @@ When talking about race, ethnicity, nationality, or religion, specific research 
 | Ethnicity   | your culture                          | Dwight Schrute is Pennsylvania Dutch. |
 | Nationality | where you live or where you were born | Dwight Schrute is American.           |
 | Religion    | your belief system                    | Dwight Schrute is Amish.              |
+
 ## Avoid making assumptions and generalizations 
 Avoid generalizations, assumptions, and biases ([see also](https://academicguides.waldenu.edu/writingcenter/scholarlyvoice/avoidingbias)).
 
-NO: Gardening may seem like an ==old person’s== hobby, but the reality is that many ==young people== and ==beginning families== are learning how to garden to save money on produce. 
+NO: Gardening may seem like an **old person’s** hobby, but the reality is that many **young people** and **beginning families** are learning how to garden to save money on produce. 
 YES: Gardening is a great way to save money on produce. 
+
 ## Avoid stating opinions as facts
 Instead, try to provide solid evidence and data. 
 
 NO: Family is very important to the Hispanic population.
-YES: ==According to Watson (2011)==, family is important to 47% of the Hispanic families in Auburn, Indiana.
+YES: **According to Watson (2011)**, family is important to 47% of the Hispanic families in Auburn, Indiana.

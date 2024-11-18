@@ -15,6 +15,8 @@ Follow me on social media to stay up to date on all my projects and to get fun g
 [Facebook](https://www.facebook.com/bykimberseverance) | [Instagram](https://www.instagram.com/bykimberseverance/) | [Threads](https://www.threads.net/@bykimberseverance) | [Twitter](https://twitter.com/SeveranceKimber) | [Tumblr](https://bykimber.tumblr.com/) | [Pinterest](https://www.pinterest.com/bykimberseverance) | [Medium](http://www.medium.com/@kimberseverance) | [Goodreads](https://www.goodreads.com/kimberseverance) | [Substack](https://substack.com/@kimberseverance)
 ## Subscribe
 Subscribe to my Morning Pages Newsletter to stay up to date on all my latest posts and my personal journey as a writer.
+
+[[blog/index|Morning Pages Newsletter]] | [Subscribe to the Newsletter via Substack]([https://substack.com/@kimberseverance))
 ## Read More by Kimber
 Read more articles by Kimber on the Medium, Cash Academy, and Scryp Law blogs.
 
