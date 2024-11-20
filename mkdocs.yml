@@ -26,6 +26,7 @@ theme:
     features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - toc.integrate
     palette:
     - media: "(prefers-color-scheme: lightish)"
     - media: "(prefers-color-scheme: darkish)"
