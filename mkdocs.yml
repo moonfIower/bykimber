@@ -26,6 +26,15 @@ theme:
     features:
     - navigation.tabs
     - navigation.tabs.sticky
+    palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: green
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: green
 
 # Extensions
 markdown_extensions:
