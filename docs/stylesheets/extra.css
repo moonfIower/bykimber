@@ -19,3 +19,21 @@
     --md-typeset-a-color: #7da17d;
     --md-footer-bg-color: #2f4f4f80;
 }
+
+/* Header background and text color for light mode */
+[data-md-color-scheme="lightish"] .md-header {
+    background-color: var(--md-primary-fg-color); /* Use your primary foreground color */
+    color: var(--md-default-bg-color); /* Ensure text contrasts well */
+}
+
+/* Header background and text color for dark mode */
+[data-md-color-scheme="darkish"] .md-header {
+    background-color: var(--md-primary-fg-color); /* Use your primary foreground color */
+    color: var(--md-default-bg-color); /* Ensure text contrasts well */
+}
+
+/* Optional: Adjust navigation links in the header */
+[data-md-color-scheme="lightish"] .md-header a,
+[data-md-color-scheme="darkish"] .md-header a {
+    color: var(--md-default-bg-color); /* Ensure links are visible */
+}
