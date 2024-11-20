@@ -1,4 +1,4 @@
-# Comedy TV Shows
+## Comedy TV Shows
 
 |            |          |              |
 | ---------- | -------- | ------------ |
@@ -7,7 +7,7 @@
 | 2          |          | 📘to be read |
 | 3          |          | 📘to be read |
 
-# Procedural TV Shows
+## Procedural TV Shows
 
 | 📖 TV Show |       | 📋 Review    |
 | ---------- | ----- | ------------ |
