@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/Dragon Witch Cover.png"
+                "file": "assets/Butterfly House Cover.png"
               },
               "icon": "lucide-image",
-              "title": "Dragon Witch Cover"
+              "title": "Butterfly House Cover"
             }
           }
         ]
@@ -163,18 +163,21 @@
   },
   "active": "eadf719c3a7cbccb",
   "lastOpenFiles": [
-    "Images/By Kimber Cover.png",
+    "assets/Dragon Witch Cover.png",
+    "assets/logo.png",
+    "assets",
+    "New folder",
+    "logo.png",
+    "By Kimber Square Logo Transparent.png",
+    "assets/By Kimber Cover.png",
     "About.md",
     "index.md",
-    "Images/Butterfly House Cover.png",
-    "Images/Butterfly House Progress.png",
-    "Images/Dragon Witch Cover.png",
-    "Images/Dragon Witch Series Progress.png",
-    "Images/First Witch Cover.png",
-    "Images/Hidden Book Progress.png",
-    "Images/Hidden Cover.png",
-    "Images/morning pages header.png",
-    "Images/Teeth Book Progress.png",
+    "assets/Butterfly House Cover.png",
+    "assets/Butterfly House Progress.png",
+    "assets/Dragon Witch Series Progress.png",
+    "assets/First Witch Cover.png",
+    "assets/Hidden Book Progress.png",
+    "assets/Hidden Cover.png",
     "Watch List.md",
     "Reading List.md",
     "Grammar Guide/index.md",
@@ -205,9 +208,7 @@
     "stylesheets/extra.css.txt",
     "stylesheets/New Text Document.txt",
     "stylesheets",
-    "New folder",
     "bykimber/mkdocs.yml",
-    "bykimber/docs/javascripts/mathjax.js",
     "bykimber.com board.canvas"
   ]
 }

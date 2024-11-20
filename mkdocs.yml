@@ -5,6 +5,7 @@ use_directory_urls: true
 
 theme:
     name: 'material'
+    logo: assets/logo.png
     features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -24,6 +25,9 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+
+extra:
+    homepage: https://bykimber.com
 
 # Extensions
 markdown_extensions:
