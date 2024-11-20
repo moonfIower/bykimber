@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "About.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "About"
             }
           }
         ]
@@ -165,10 +165,20 @@
   },
   "active": "a487e3426a77006f",
   "lastOpenFiles": [
+    "index.md",
+    "images/By Kimber Cover.png",
+    "images/Butterfly House Cover.png",
+    "images/Butterfly House Progress.png",
+    "images/Dragon Witch Cover.png",
+    "images/Dragon Witch Series Progress.png",
+    "images/First Witch Cover.png",
+    "images/Hidden Book Progress.png",
+    "images/Hidden Cover.png",
+    "images/morning pages header.png",
+    "images/Teeth Book Progress.png",
     "Watch List.md",
     "Reading List.md",
     "About.md",
-    "index.md",
     "Grammar Guide/index.md",
     "Services.md",
     "Writing Guide/Writing Mediums.md",
@@ -192,25 +202,14 @@
     "Grammar Guide/7. Punctuation.md",
     "Grammar Guide/6. POV, Tense, Tone.md",
     "Grammar Guide/5. Sentence Structures.md",
-    "Grammar Guide/4. Commonly Confused Words.md",
-    "Writing Guide/By Kimber Cover.png",
     "stylesheets/extra.css",
-    "Images/1.png",
-    "images/morning pages header.png",
     "stylesheets/extra.css.css",
     "stylesheets/extra.css.txt",
     "stylesheets/New Text Document.txt",
     "stylesheets",
     "New folder",
-    "Images/By Kimber Square Logo Circle Transparent.png",
     "bykimber/mkdocs.yml",
     "bykimber/docs/javascripts/mathjax.js",
-    "bykimber/2021-11-22-22-54-02.png",
-    "bykimber/2021-11-22-22-52-49.png",
-    "bykimber/2021-11-22-22-49-26.png",
-    "images/Hidden Cover.png",
-    "images/Butterfly House Cover.png",
-    "images/Teeth Cover.png",
     "bykimber.com board.canvas"
   ]
 }
