@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "72614df82b184d8f",
+        "id": "ff2adc8fd8e0b7d8",
         "type": "tabs",
         "children": [
           {
-            "id": "a487e3426a77006f",
+            "id": "da3154a78a89c4f4",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Butterfly House Cover.png"
-              },
-              "icon": "lucide-image",
-              "title": "Butterfly House Cover"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -161,23 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eadf719c3a7cbccb",
+  "active": "da3154a78a89c4f4",
   "lastOpenFiles": [
+    "assets/By Kimber Cover.png",
+    "index.md",
+    "assets/Dragon Witch Series Progress.png",
+    "Book Projects/1. The Dragon Witch Series.md",
+    "assets/Butterfly House Cover.png",
     "assets/Dragon Witch Cover.png",
     "assets/logo.png",
     "assets",
     "New folder",
     "logo.png",
     "By Kimber Square Logo Transparent.png",
-    "assets/By Kimber Cover.png",
     "About.md",
-    "index.md",
-    "assets/Butterfly House Cover.png",
     "assets/Butterfly House Progress.png",
-    "assets/Dragon Witch Series Progress.png",
     "assets/First Witch Cover.png",
     "assets/Hidden Book Progress.png",
-    "assets/Hidden Cover.png",
     "Watch List.md",
     "Reading List.md",
     "Grammar Guide/index.md",
@@ -202,7 +200,6 @@
     "Grammar Guide/9. Style Guides.md",
     "Grammar Guide/7. Punctuation.md",
     "Grammar Guide/6. POV, Tense, Tone.md",
-    "Grammar Guide/5. Sentence Structures.md",
     "stylesheets/extra.css",
     "stylesheets/extra.css.css",
     "stylesheets/extra.css.txt",
