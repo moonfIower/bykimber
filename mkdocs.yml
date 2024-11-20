@@ -27,9 +27,11 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - toc.integrate
-    palette:
-    - media: "(prefers-color-scheme: lightish)"
-    - media: "(prefers-color-scheme: darkish)"
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: lightish
+    - media: "(prefers-color-scheme: dark)"
+      scheme: darkish
 
 # Extensions
 markdown_extensions:
