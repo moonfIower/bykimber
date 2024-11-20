@@ -11,14 +11,12 @@
             "id": "a487e3426a77006f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "About.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Dragon Witch Cover.png"
               },
-              "icon": "lucide-file",
-              "title": "About"
+              "icon": "lucide-image",
+              "title": "Dragon Witch Cover"
             }
           }
         ]
@@ -163,22 +161,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a487e3426a77006f",
+  "active": "eadf719c3a7cbccb",
   "lastOpenFiles": [
+    "Images/By Kimber Cover.png",
+    "About.md",
     "index.md",
-    "images/By Kimber Cover.png",
-    "images/Butterfly House Cover.png",
-    "images/Butterfly House Progress.png",
-    "images/Dragon Witch Cover.png",
-    "images/Dragon Witch Series Progress.png",
-    "images/First Witch Cover.png",
-    "images/Hidden Book Progress.png",
-    "images/Hidden Cover.png",
-    "images/morning pages header.png",
-    "images/Teeth Book Progress.png",
+    "Images/Butterfly House Cover.png",
+    "Images/Butterfly House Progress.png",
+    "Images/Dragon Witch Cover.png",
+    "Images/Dragon Witch Series Progress.png",
+    "Images/First Witch Cover.png",
+    "Images/Hidden Book Progress.png",
+    "Images/Hidden Cover.png",
+    "Images/morning pages header.png",
+    "Images/Teeth Book Progress.png",
     "Watch List.md",
     "Reading List.md",
-    "About.md",
     "Grammar Guide/index.md",
     "Services.md",
     "Writing Guide/Writing Mediums.md",
