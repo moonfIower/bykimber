@@ -1,10 +1,15 @@
 ## Rating Key
 
 🛑dropped = hated it, did not finish (DNF) (dark red)😡
+
 ⭐ = did not like it, difficult to get through but I finished it (red)😒
+
 ⭐⭐ = it was just okay, probably wouldn't recommend or read again (orange)😑
+
 ⭐⭐⭐ = liked it, some complaints, but overall good (yellow)🙂
+
 ⭐⭐⭐⭐ = loved it, thoroughly enjoyed it, definitely recommend (green)😊
+
 ⭐⭐⭐⭐⭐ = obsessed, can't stop thinking about it (dark green)😍
 
 I like to go over the way I rank my reviews since it's an ambiguous scale and I want to provide clarity for what I personally mean when I mark something with a certain star rating. For some people, if you mark a book with anything other than 5 stars then that means you hated it, but that's not the case for me. If I mark all books I like with 5 stars then the scaling system should really just be a thumbs up or thumbs down system instead. Using a scaling system like 5 stars helps me to categorize my reading by what I liked (3 stars) vs what I loved (4 stars) vs my next great obsession (5 stars).
