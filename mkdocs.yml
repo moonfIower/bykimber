@@ -21,7 +21,9 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
 
-  features:
+theme:
+    name: material
+    features:
     - navigation.tabs
     - navigation.tabs.sticky
 
