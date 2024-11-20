@@ -1,3 +1,8 @@
+## Writing Templates
+- [Book Reference Guide](https://docs.google.com/document/d/13Ah1Ct3Yng5oYUgPeRpLIXdGBB7zTmtVqoa5_sOlWpo/edit?usp=sharing)
+- [Manuscript Format Template](https://docs.google.com/document/d/1qttljH76szzoF0HBUo4_pW9al6fQ-LUFWJXs1rVP-Hc/edit?usp=sharing)
+- [Novel Writing Preparation To Do List](https://drive.google.com/file/d/1-N7o5qKo9BBwXV0MC9yhUnQEhUj-lDgo/view?usp=drive_link)
+
 ## Online vs Print Writing
 | **Writing for Online**                                                                                        | **Writing for Print**                                                     |
 | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |

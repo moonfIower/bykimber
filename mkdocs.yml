@@ -1,6 +1,8 @@
 site_name: ByKimber.com
 site_url: https://bykimber.com
 
+use_directory_urls: true
+
 theme:
     name: 'material'
     palette:
@@ -18,6 +20,11 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+
+theme:
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
 
 # Extensions
 markdown_extensions:
