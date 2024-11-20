@@ -5,6 +5,10 @@ use_directory_urls: true
 
 theme:
     name: 'material'
+    features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
     palette:
 
     # Light mode
@@ -20,18 +24,6 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
-
-theme:
-    name: material
-    features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - toc.integrate
-    palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: lightish
-    - media: "(prefers-color-scheme: dark)"
-      scheme: darkish
 
 # Extensions
 markdown_extensions:

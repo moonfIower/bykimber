@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch List.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Watch List"
+              "title": "index"
             }
           }
         ]
@@ -165,12 +165,12 @@
   },
   "active": "a487e3426a77006f",
   "lastOpenFiles": [
+    "Watch List.md",
     "Reading List.md",
     "About.md",
     "index.md",
     "Grammar Guide/index.md",
     "Services.md",
-    "Watch List.md",
     "Writing Guide/Writing Mediums.md",
     "Resources.md",
     "Writing Guide/Writing Playlists.md",
