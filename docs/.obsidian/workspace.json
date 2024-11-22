@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading List.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reading List"
+              "title": "index"
             }
           }
         ]
@@ -165,11 +165,12 @@
   },
   "active": "da3154a78a89c4f4",
   "lastOpenFiles": [
-    "Watch List.md",
+    "assets/By.md",
+    "index.md",
     "Reading List.md",
+    "Watch List.md",
     "About.md",
     "assets/By Kimber Cover.png",
-    "index.md",
     "assets/Dragon Witch Series Progress.png",
     "Book Projects/1. The Dragon Witch Series.md",
     "assets/Butterfly House Cover.png",
