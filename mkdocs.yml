@@ -67,8 +67,8 @@ nav:
   - Home: index.md
   - About: About.md
   - Services: Services.md
-  - "Grammar Guide": "Grammar Guide.md"
-  - "Writing Guide": "Writing Guide.md"
-  - "Reading List": "Reading List.md"
-  - "Book Projects": "Book Projects.md"
+  - Grammar Guide: "Grammar Guide.md"
+  - Writing Guide: "Writing Guide.md"
+  - Reading List: "Reading List.md"
+  - Book Projects: "Book Projects.md"
   - Poetry: Poetry.md
