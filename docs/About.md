@@ -7,7 +7,7 @@ Kimber Severance has been an avid writer all her life, ever since she watched Li
 She has experience writing in many mediums including novels, short stories, poems, booklets, pamphlets, webpages, articles, marketing copy, video scripts, and more.
 
 She also has a wide range of experience editing many genres including fiction, nonfiction, fantasy, historical fiction, journal articles, website content, scholarly books, self-help books, autobiographies, memoirs, and more.
-​
+
 Kimber Severance has had the opportunity to work in many positions in the industry of words including copyeditor, substantive editor, copywriter, back ad copywriter, poetry writer, and novel writer. Her professional skills range from meticulous organization and project management to all forms of content writing, editing, and more.  
 ## Follow Kimber
 Follow me on social media to stay up to date on all my projects and to get fun grammar tips. (Yes, I think grammar is fun!)
@@ -16,7 +16,7 @@ Follow me on social media to stay up to date on all my projects and to get fun g
 ## Subscribe
 Subscribe to my Morning Pages Newsletter to stay up to date on all my latest posts and my personal journey as a writer.
 
-[[blog/index|Morning Pages Newsletter]] | [Subscribe to the Newsletter via Substack]([https://substack.com/@kimberseverance)
+[[blog/index|Morning Pages Newsletter]] | [Subscribe via Substack]([https://substack.com/@kimberseverance)
 ## Read More by Kimber
 Read more articles by Kimber on the Medium, Cash Academy, and Scryp Law blogs.
 
