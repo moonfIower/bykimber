@@ -5,19 +5,19 @@
     --md-primary-fg-color--dark: #7da17d;
     --md-typeset-color: #3d3b3b;
     --md-typeset-a-color: #7da17d;
-    --md-footer-bg-color: #2f4f4f80;
+    --md-footer-bg-color: #3d3b3b;
     --md-accent-color: #7da17d;
 }
 
 [data-md-color-scheme="darkish"]{    
-    --md-default-bg-color: #0c1815db;
+    --md-default-bg-color: #f9f7f4;
     --md-primary-bg-color: #f9f7f4;
     --md-primary-fg-color: #7da17db3;
     --md-primary-fg-color--light: #f9f7f4;
     --md-primary-fg-color--dark: #7da17db3;
     --md-typeset-color: #f9f7f4;
     --md-typeset-a-color: #7da17d;
-    --md-footer-bg-color: #2f4f4f80;
+    --md-footer-bg-color: #3d3b3b;
 }
 
 /* Header background and text color for light mode */
