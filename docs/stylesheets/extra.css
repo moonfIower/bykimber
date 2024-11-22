@@ -1,21 +1,21 @@
 [data-md-color-scheme="lightish"]{    
-    --md-default-bg-color: #f9f7f4;
+    --md-default-bg-color: #e1dbcb;
     --md-primary-fg-color: #95a58d;
-    --md-primary-fg-color--light: #f9f7f4;
+    --md-primary-fg-color--light: #e1dbcb;
     --md-primary-fg-color--dark: #95a58d;
     --md-typeset-color: #2e312d;
     --md-typeset-a-color: #95a58d;
-    --md-footer-bg-color: #f9f7f4;
+    --md-footer-bg-color: #e1dbcb;
     --md-accent-color: #95a58d;
 }
 
 [data-md-color-scheme="darkish"]{    
     --md-default-bg-color: #2e312d;
-    --md-primary-bg-color: #f9f7f4;
+    --md-primary-bg-color: #e1dbcb;
     --md-primary-fg-color: #95a58d;
-    --md-primary-fg-color--light: #f9f7f4;
+    --md-primary-fg-color--light: #e1dbcb;
     --md-primary-fg-color--dark: #95a58d;
-    --md-typeset-color: #f9f7f4;
+    --md-typeset-color: #e1dbcb;
     --md-typeset-a-color: #95a58d;
     --md-footer-bg-color: #2e312d;
     --md-accent-color: #95a58d;
@@ -54,19 +54,30 @@
 
 /* Link hover color in light mode */
 [data-md-color-scheme="lightish"] a:hover {
-    color: #d4e1cb; /* Replace with your desired hover color */
+    color: #e1dbcb; /* Replace with your desired hover color */
 }
 
 /* Link hover color in dark mode */
 [data-md-color-scheme="darkish"] a:hover {
-    color: #d4e1cb; /* Replace with your desired hover color */
+    color: #e1dbcb; /* Replace with your desired hover color */
 }
+
 /* TOC link hover color in light mode */
 [data-md-color-scheme="lightish"] .md-nav__link:hover {
-    color: #d4e1cb; /* Replace with your desired hover color */
+    color: #e1dbcb; /* Replace with your desired hover color */
 }
 
 /* TOC link hover color in dark mode */
 [data-md-color-scheme="darkish"] .md-nav__link:hover {
-    color: #d4e1cb; /* Replace with your desired hover color */
+    color: #e1dbcb; /* Replace with your desired hover color */
+}
+
+/* H1 color in light mode */
+[data-md-color-scheme="lightish"] h1 {
+    color: #e1dbcb; /* Replace with your desired color for light mode */
+}
+
+/* H1 color in dark mode */
+[data-md-color-scheme="darkish"] h1 {
+    color: #e1dbcb; /* Replace with your desired color for dark mode */
 }
