@@ -54,10 +54,19 @@
 
 /* Link hover color in light mode */
 [data-md-color-scheme="lightish"] a:hover {
-    color: #b2d8b2; /* Replace with your desired hover color */
+    color: #d4e1cb; /* Replace with your desired hover color */
 }
 
 /* Link hover color in dark mode */
 [data-md-color-scheme="darkish"] a:hover {
-    color: #b2d8b2; /* Replace with your desired hover color */
+    color: #d4e1cb; /* Replace with your desired hover color */
+}
+/* TOC link hover color in light mode */
+[data-md-color-scheme="lightish"] .md-nav__link:hover {
+    color: #d4e1cb; /* Replace with your desired hover color */
+}
+
+/* TOC link hover color in dark mode */
+[data-md-color-scheme="darkish"] .md-nav__link:hover {
+    color: #d4e1cb; /* Replace with your desired hover color */
 }
