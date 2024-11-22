@@ -54,30 +54,30 @@
 
 /* Link hover color in light mode */
 [data-md-color-scheme="lightish"] a:hover {
-    color: #e1dbcb; /* Replace with your desired hover color */
+    color: #c5beab; /* Replace with your desired hover color */
 }
 
 /* Link hover color in dark mode */
 [data-md-color-scheme="darkish"] a:hover {
-    color: #e1dbcb; /* Replace with your desired hover color */
+    color: #c5beab; /* Replace with your desired hover color */
 }
 
 /* TOC link hover color in light mode */
 [data-md-color-scheme="lightish"] .md-nav__link:hover {
-    color: #e1dbcb; /* Replace with your desired hover color */
+    color: #c5beab; /* Replace with your desired hover color */
 }
 
 /* TOC link hover color in dark mode */
 [data-md-color-scheme="darkish"] .md-nav__link:hover {
-    color: #e1dbcb; /* Replace with your desired hover color */
+    color: #c5beab; /* Replace with your desired hover color */
 }
 
 /* H1 color in light mode */
 [data-md-color-scheme="lightish"] h1 {
-    color: #e1dbcb; /* Replace with your desired color for light mode */
+    color: #c5beab; /* Replace with your desired color for light mode */
 }
 
 /* H1 color in dark mode */
 [data-md-color-scheme="darkish"] h1 {
-    color: #e1dbcb; /* Replace with your desired color for dark mode */
+    color: #c5beab; /* Replace with your desired color for dark mode */
 }
