@@ -26,6 +26,11 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
 
+plugins:
+   - search
+    - roamlinks:
+      enable_wikilinks: true
+
 extra:
     homepage: https://bykimber.com
 
