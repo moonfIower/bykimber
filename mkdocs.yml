@@ -27,8 +27,8 @@ theme:
         name: Switch to light mode
 
 plugins:
-   - search
-    - roamlinks:
+  - search
+  - roamlinks:
       enable_wikilinks: true
 
 extra:
