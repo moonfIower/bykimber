@@ -32,6 +32,19 @@
     color: var(--md-default-bg-color); /* Ensure text contrasts well */
 }
 
+/* Remove gradient or background from the entire sidebar */
+[data-md-color-scheme="lightish"] .md-sidebar,
+[data-md-color-scheme="darkish"] .md-sidebar {
+    background: none !important; /* Removes the background color or gradient */
+    box-shadow: none !important; /* Removes any shadows */
+}
+
+/* Optional: Targeting specific inner elements */
+[data-md-color-scheme="lightish"] .md-sidebar__inner,
+[data-md-color-scheme="darkish"] .md-sidebar__inner {
+    background: none !important; /* Ensures no background for the inner container */
+}
+
 /* Optional: Adjust navigation links in the header */
 [data-md-color-scheme="lightish"] .md-header a,
 [data-md-color-scheme="darkish"] .md-header a {
