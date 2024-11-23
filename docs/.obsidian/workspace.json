@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading List.md",
+                "file": "Poetry/Waking Up for Swim Lessons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reading List"
+              "title": "Waking Up for Swim Lessons"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "da3154a78a89c4f4",
   "lastOpenFiles": [
-    "Grammar Guide/index.md",
     "Reading List.md",
+    "Poetry/Waking Up for Swim Lessons.md",
+    "Grammar Guide/index.md",
     "Poetry/index.md",
     "Writing Guide/index.md",
     "Book Projects/index.md",

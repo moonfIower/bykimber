@@ -35,40 +35,36 @@ extra:
     homepage: https://bykimber.com
 
 # Extensions
-markdown_extensions:
-  - footnotes
-  # - attr_list
-  - pymdownx.arithmatex:
-      generic: true
-  # - pymdownx.superfences
-  # - pymdownx.details
-  # - pymdownx.magiclink
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - def_list
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+# markdown_extensions:
+#   - footnotes
+#   # - attr_list
+#   - pymdownx.arithmatex:
+#       generic: true
+#   # - pymdownx.superfences
+#   # - pymdownx.details
+#   # - pymdownx.magiclink
+#   - pymdownx.tasklist:
+#       custom_checkbox: true
+#   - def_list
+#   - pymdownx.critic
+#   - pymdownx.caret
+#   - pymdownx.keys
+#   - pymdownx.mark
+#   - pymdownx.tilde
+#   - pymdownx.superfences:
+#       custom_fences:
+#         - name: mermaid
+#           class: mermaid
+#           format: !!python/name:pymdownx.superfences.fence_code_format
 
-  - toc:
-      permalink: true
+ - toc:
+     permalink: true
 
 extra_css:
   - stylesheets/extra.css
 
-nav:
-  - Home: index.md
-  - About: About.md
-  - Services: Services.md
-  - Grammar Guide: Grammar Guide/
-  - Writing Guide: Writing Guide/
-  - Reading List: Reading List.md
-  - Book Projects: Book Projects/
-  - Poetry: Poetry/
+ nav:
+   - Home: index.md
+   - About: About.md
+   - Services: Services.md
+   - Reading List: Reading List.md
