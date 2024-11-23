@@ -32,17 +32,17 @@ plugins:
       enable_wikilinks: true
 
 extra:
-    homepage: https://bykimber.com
+  homepage: https://bykimber.com
 
 markdown_extensions:
    - footnotes
-    - attr_list
+   - attr_list
    - pymdownx.arithmatex:
        generic: true
     - pymdownx.superfences
     - pymdownx.details
     - pymdownx.magiclink
-   - pymdownx.tasklist:
+    - pymdownx.tasklist:
        custom_checkbox: true
    - def_list
    - pymdownx.critic
