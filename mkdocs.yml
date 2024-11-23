@@ -58,13 +58,3 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
-
-nav:
-  - Home: index.md
-  - About: About.md
-  - Services: Services.md
-  - Reading List: Reading List.md
-  - Grammar Guide: Grammar Guide/
-  - Writing Guide: Writing Guide/
-  - Book Projects: Book Projects/
-  - Poetry: Poetry/
