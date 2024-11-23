@@ -34,7 +34,6 @@ plugins:
 extra:
     homepage: https://bykimber.com
 
-Extensions
  markdown_extensions:
    - footnotes
     - attr_list
