@@ -3,12 +3,12 @@ site_url: https://bykimber.com
 
 nav:
   - Home: index.md
-  - About: About.md
-  - Services: Services.md
-  - Book Projects: Book-Projects.md
-  - Grammar Guide: Grammar-Guide.md
-  - Writing Guide: Writing-Guide.md
-  - Reading List: Reading-List.md
+  - About: about.md
+  - Services: services.md
+  - Book Projects: book-projects.md
+  - Grammar Guide: grammar-guide.md
+  - Writing Guide: writing-guide.md
+  - Reading List: reading-list.md
 
 use_directory_urls: true
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Projects/index.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "about"
             }
           },
           {
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book Projects/index.md",
+                "file": "about.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of about"
             }
           }
         ],
@@ -180,40 +180,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da3154a78a89c4f4",
+  "active": "eadf719c3a7cbccb",
   "lastOpenFiles": [
-    "Grammar Guide/index.md",
-    "Writing Guide/index.md",
-    "Services.md",
-    "Reading List.md",
+    "book-projects/index.md",
+    "grammar-guide/index.md",
+    "writing-guide/index.md",
+    "services.md",
+    "reading-list.md",
     "index.md",
-    "Writing Guide/Writing Tips.md",
-    "Grammar Guide/2. Copyediting.md",
-    "Grammar Guide/1. Substantive Editing.md",
-    "Writing Guide/0. Writing Prep Checklist.md",
-    "Writing Guide/Writing Process.md",
-    "Writing Guide/1. World Building.md",
-    "Writing Guide/4. Story Outlining.md",
-    "Writing Guide/2. Character Development.md",
-    "Book Projects/index.md",
-    "Writing Guide/Figures of Speech.md",
-    "About.md",
+    "writing-guide/Writing Tips.md",
+    "grammar-guide/2. Copyediting.md",
+    "grammar-guide/1. Substantive Editing.md",
+    "writing-guide/0. Writing Prep Checklist.md",
+    "writing-guide/Writing Process.md",
+    "writing-guide/1. World Building.md",
+    "writing-guide/4. Story Outlining.md",
+    "writing-guide/2. Character Development.md",
+    "writing-guide/Figures of Speech.md",
+    "about.md",
     "assets/Edited Profile Picture.png",
-    "Book Projects/1. The Dragon Witch.md",
+    "book-projects/1. The Dragon Witch.md",
     "2.png",
     "assets/Dragon Witch Series Progress (1).png",
-    "Book Projects/2. TEETH.md",
-    "Book Projects/3. The Butterfly House.md",
-    "Book Projects/4. The Hidden.md",
+    "book-projects/2. TEETH.md",
+    "book-projects/3. The Butterfly House.md",
+    "book-projects/4. The Hidden.md",
     "afawefg.png",
     "The Dragon Witch Cover.png",
     "assets/Dragon Witch Series Progress.png",
-    "Writing Guide/Manuscript Formatting.md",
-    "Grammar Guide/4. Common Confusions.md",
-    "Grammar Guide/10. Other.md",
-    "Grammar Guide/3. Phrases of Speech.md",
-    "Grammar Guide/8. Numbers.md",
-    "Writing Guide/Genre Guidelines.md",
+    "writing-guide/Manuscript Formatting.md",
+    "grammar-guide/4. Common Confusions.md",
+    "grammar-guide/10. Other.md",
+    "grammar-guide/3. Phrases of Speech.md",
+    "grammar-guide/8. Numbers.md",
+    "writing-guide/Genre Guidelines.md",
     "assets/logo.png",
     "assets/By Kimber Cover.png",
     "assets/Dragon Witch Series Progress.png",
