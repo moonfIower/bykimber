@@ -13,4 +13,5 @@ Focusing on refining a manuscript by correcting spelling, grammar, punctuation, 
 Offering personalized sessions or consultations to provide guidance on various writing needs, such as resume building, academic essays, creative writing, and professional documents.
 
 ***
-[Facebook](https://www.facebook.com/bykimberseverance) | [Instagram](https://www.instagram.com/bykimberseverance/) | [Threads](https://www.threads.net/@bykimberseverance) | [Twitter](https://twitter.com/SeveranceKimber) | [Tumblr](https://bykimber.tumblr.com/) | [Pinterest](https://www.pinterest.com/bykimberseverance) | [Medium](http://www.medium.com/@kimberseverance) | [Goodreads](https://www.goodreads.com/kimberseverance) | [Substack](https://substack.com/@kimberseverance)
+[Facebook](https://www.facebook.com/bykimberseverance) | [Instagram](https://www.instagram.com/bykimberseverance/) | [Threads](https://www.threads.net/@bykimberseverance) | [Twitter](https://twitter.com/SeveranceKimber) | [Tumblr](https://bykimber.tumblr.com/) | [Pinterest](https://www.pinterest.com/bykimberseverance)
+[Medium](http://www.medium.com/@kimberseverance) | [Goodreads](https://www.goodreads.com/kimberseverance) | [Substack](https://substack.com/@kimberseverance)
