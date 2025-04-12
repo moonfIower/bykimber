@@ -3,6 +3,6 @@ Welcome to my Writing Guide. Here you'll find a complete field guide to everythi
 Thank you for reading, I hope you find something here helpful, and feel free to follow and find me at any of the social links below!
 
 ***
-[Facebook](https://www.facebook.com/bykimberseverance) | [Instagram](https://www.instagram.com/bykimberseverance/) | [Threads](https://www.threads.net/@bykimberseverance) | [Twitter](https://twitter.com/SeveranceKimber) | [Tumblr](https://bykimber.tumblr.com/) | [Pinterest](https://www.pinterest.com/bykimberseverance)
+[Facebook](https://www.facebook.com/bykimberseverance) | [Instagram](https://www.instagram.com/bykimberseverance/) | [Threads](https://www.threads.net/@bykimberseverance) | [Twitter](https://twitter.com/SeveranceKimber) | [Tumblr](https://bykimber.tumblr.com/) | [Pinterest](https://www.pinterest.com/bykimberseverance) | [Goodreads](https://www.goodreads.com/kimberseverance)
 
-[Medium](http://www.medium.com/@kimberseverance) | [Goodreads](https://www.goodreads.com/kimberseverance) | [Substack](https://substack.com/@kimberseverance)
+Read the Blog: [Medium](http://www.medium.com/@kimberseverance) | Subscribe to the Newsletter: [Substack](https://substack.com/@kimberseverance)

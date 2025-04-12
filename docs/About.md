@@ -38,6 +38,6 @@ I personally love this writing practice and believe its core principle can be ef
 Thank you for subscribing to my Morning Pages Newsletter. You will now start receiving Morning Pages updates right here in your inbox. You can also log in to the Substack website to read my posts or visit my blog on [Medium](https://medium.com/@kimberseverance) to read my full articles.
 
 ***
-[Facebook](https://www.facebook.com/bykimberseverance) | [Instagram](https://www.instagram.com/bykimberseverance/) | [Threads](https://www.threads.net/@bykimberseverance) | [Twitter](https://twitter.com/SeveranceKimber) | [Tumblr](https://bykimber.tumblr.com/) | [Pinterest](https://www.pinterest.com/bykimberseverance)
+[Facebook](https://www.facebook.com/bykimberseverance) | [Instagram](https://www.instagram.com/bykimberseverance/) | [Threads](https://www.threads.net/@bykimberseverance) | [Twitter](https://twitter.com/SeveranceKimber) | [Tumblr](https://bykimber.tumblr.com/) | [Pinterest](https://www.pinterest.com/bykimberseverance) | [Goodreads](https://www.goodreads.com/kimberseverance)
 
-[Medium](http://www.medium.com/@kimberseverance) | [Goodreads](https://www.goodreads.com/kimberseverance) | [Substack](https://substack.com/@kimberseverance)
+Read the Blog: [Medium](http://www.medium.com/@kimberseverance) | Subscribe to the Newsletter: [Substack](https://substack.com/@kimberseverance)

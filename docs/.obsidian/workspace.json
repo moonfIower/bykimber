@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "services.md",
+                "file": "book-projects/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "services"
-            }
-          },
-          {
-            "id": "b3b1a969d2a5b24c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grammar Guide/8. Numbers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. Numbers"
+              "title": "index"
             }
           }
         ]
@@ -154,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "services.md",
+                "file": "book-projects/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of services"
+              "title": "Outline of index"
             }
           }
         ],
@@ -180,16 +166,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da3154a78a89c4f4",
+  "active": "eadf719c3a7cbccb",
   "lastOpenFiles": [
-    "about.md",
+    "index.md",
+    "grammar-guide/8. Numbers.md",
+    "services.md",
     "book-projects/index.md",
+    "assets/Book Projects Progress.png",
+    "book-projects/1. The Dragon Witch.md",
+    "book-projects/2. TEETH.md",
+    "book-projects/3. The Butterfly House.md",
+    "book-projects/4. The Hidden.md",
     "grammar-guide/index.md",
     "writing-guide/index.md",
-    "services.md",
+    "about.md",
     "reading-list.md",
-    "index.md",
-    "writing-guide/Writing Tips.md",
+    "writing-guide/writing-tips.md",
     "grammar-guide/2. Copyediting.md",
     "grammar-guide/1. Substantive Editing.md",
     "writing-guide/0. Writing Prep Checklist.md",
@@ -199,12 +191,8 @@
     "writing-guide/2. Character Development.md",
     "writing-guide/Figures of Speech.md",
     "assets/Edited Profile Picture.png",
-    "book-projects/1. The Dragon Witch.md",
     "2.png",
     "assets/Dragon Witch Series Progress (1).png",
-    "book-projects/2. TEETH.md",
-    "book-projects/3. The Butterfly House.md",
-    "book-projects/4. The Hidden.md",
     "afawefg.png",
     "The Dragon Witch Cover.png",
     "assets/Dragon Witch Series Progress.png",
@@ -212,12 +200,9 @@
     "grammar-guide/4. Common Confusions.md",
     "grammar-guide/10. Other.md",
     "grammar-guide/3. Phrases of Speech.md",
-    "grammar-guide/8. Numbers.md",
-    "writing-guide/Genre Guidelines.md",
     "assets/logo.png",
     "assets/By Kimber Cover.png",
     "assets/Dragon Witch Series Progress.png",
-    "assets/Butterfly House Cover.png",
     "assets",
     "New folder",
     "Untitled",
