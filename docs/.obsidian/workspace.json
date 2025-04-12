@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing Guide/Writing Tips.md",
+                "file": "Book Projects/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing Tips"
+              "title": "index"
             }
           },
           {
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing Guide/Writing Tips.md",
+                "file": "Book Projects/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Writing Tips"
+              "title": "Outline of index"
             }
           }
         ],
@@ -182,6 +182,12 @@
   },
   "active": "da3154a78a89c4f4",
   "lastOpenFiles": [
+    "Grammar Guide/index.md",
+    "Writing Guide/index.md",
+    "Services.md",
+    "Reading List.md",
+    "index.md",
+    "Writing Guide/Writing Tips.md",
     "Grammar Guide/2. Copyediting.md",
     "Grammar Guide/1. Substantive Editing.md",
     "Writing Guide/0. Writing Prep Checklist.md",
@@ -189,15 +195,9 @@
     "Writing Guide/1. World Building.md",
     "Writing Guide/4. Story Outlining.md",
     "Writing Guide/2. Character Development.md",
-    "Writing Guide/Writing Tips.md",
-    "Grammar Guide/index.md",
-    "Writing Guide/index.md",
     "Book Projects/index.md",
     "Writing Guide/Figures of Speech.md",
     "About.md",
-    "Services.md",
-    "index.md",
-    "Reading List.md",
     "assets/Edited Profile Picture.png",
     "Book Projects/1. The Dragon Witch.md",
     "2.png",

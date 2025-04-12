@@ -2,13 +2,13 @@ site_name: ByKimber.com
 site_url: https://bykimber.com
 
 nav:
-  - Home: index.md
-  - About: about.md
-  - Services: services.md
-  - Book Projects: book-projects.md
-  - Grammar Guide: grammar-guide.md
-  - Writing Guide: writing-guide.md
-  - Reading List: reading-list.md
+  - Home: docs/index.md
+  - About: docs/about.md
+  - Services: docs/services.md
+  - Book Projects: docs/book-projects.md
+  - Grammar Guide: docs/grammar-guide.md
+  - Writing Guide: docs/writing-guide.md
+  - Reading List: docs/reading-list.md
 
 use_directory_urls: true
 
