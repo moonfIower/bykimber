@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "services"
             }
           },
           {
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md",
+                "file": "services.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of about"
+              "title": "Outline of services"
             }
           }
         ],
@@ -180,8 +180,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eadf719c3a7cbccb",
+  "active": "da3154a78a89c4f4",
   "lastOpenFiles": [
+    "about.md",
     "book-projects/index.md",
     "grammar-guide/index.md",
     "writing-guide/index.md",
@@ -197,7 +198,6 @@
     "writing-guide/4. Story Outlining.md",
     "writing-guide/2. Character Development.md",
     "writing-guide/Figures of Speech.md",
-    "about.md",
     "assets/Edited Profile Picture.png",
     "book-projects/1. The Dragon Witch.md",
     "2.png",
