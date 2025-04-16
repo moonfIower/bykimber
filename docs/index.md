@@ -3,6 +3,9 @@ Hello, and welcome to my website. My name is Kimber Severance and I am a profess
 
 The ByKimber website is my personal and professional hub where you can find all things by me, Kimber, including my Morning Pages newsletter, books I'm writing, poetry I've written, the writing, tutoring, and editorial services I provide, and more. Enjoy! 
 
+<iframe src="https://kimberseverance.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+
 ![[By Kimber Cover.png]]
 
 ***
