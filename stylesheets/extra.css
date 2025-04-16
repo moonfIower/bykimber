@@ -1,0 +1,83 @@
+[data-md-color-scheme="lightish"]{    
+    --md-default-bg-color: #efece3;
+    --md-primary-fg-color: #95a58d;
+    --md-primary-fg-color--light: #efece3;
+    --md-primary-fg-color--dark: #95a58d;
+    --md-typeset-color: #2e312d;
+    --md-typeset-a-color: #95a58d;
+    --md-footer-bg-color: #efece3;
+    --md-accent-color: #95a58d;
+}
+
+[data-md-color-scheme="darkish"]{    
+    --md-default-bg-color: #2e312d;
+    --md-primary-bg-color: #efece3;
+    --md-primary-fg-color: #95a58d;
+    --md-primary-fg-color--light: #efece3;
+    --md-primary-fg-color--dark: #95a58d;
+    --md-typeset-color: #efece3;
+    --md-typeset-a-color: #95a58d;
+    --md-footer-bg-color: #2e312d;
+    --md-accent-color: #95a58d;
+}
+
+/* Header background and text color for light mode */
+[data-md-color-scheme="lightish"] .md-header {
+    background-color: var(--md-primary-fg-color); /* Use your primary foreground color */
+    color: var(--md-default-bg-color); /* Ensure text contrasts well */
+}
+
+/* Header background and text color for dark mode */
+[data-md-color-scheme="darkish"] .md-header {
+    background-color: var(--md-primary-fg-color); /* Use your primary foreground color */
+    color: var(--md-default-bg-color); /* Ensure text contrasts well */
+}
+
+/* Remove gradient or background from the entire sidebar */
+[data-md-color-scheme="lightish"] .md-sidebar,
+[data-md-color-scheme="darkish"] .md-sidebar {
+    background: none !important; /* Removes the background color or gradient */
+    box-shadow: none !important; /* Removes any shadows */
+}
+
+/* Optional: Targeting specific inner elements */
+[data-md-color-scheme="lightish"] .md-sidebar__inner,
+[data-md-color-scheme="darkish"] .md-sidebar__inner {
+    background: none !important; /* Ensures no background for the inner container */
+}
+
+/* Optional: Adjust navigation links in the header */
+[data-md-color-scheme="lightish"] .md-header a,
+[data-md-color-scheme="darkish"] .md-header a {
+    color: var(--md-default-bg-color); /* Ensure links are visible */
+}
+
+/* Link hover color in light mode */
+[data-md-color-scheme="lightish"] a:hover {
+    color: #c5beab; /* Replace with your desired hover color */
+}
+
+/* Link hover color in dark mode */
+[data-md-color-scheme="darkish"] a:hover {
+    color: #c5beab; /* Replace with your desired hover color */
+}
+
+/* TOC link hover color in light mode */
+[data-md-color-scheme="lightish"] .md-nav__link:hover {
+    color: #c5beab; /* Replace with your desired hover color */
+}
+
+/* TOC link hover color in dark mode */
+[data-md-color-scheme="darkish"] .md-nav__link:hover {
+    color: #c5beab; /* Replace with your desired hover color */
+}
+
+/* H1 color in light mode */
+[data-md-color-scheme="lightish"] h1 {
+    color: #95a58d; /* Replace with your desired color for light mode */
+}
+
+/* H1 color in dark mode */
+[data-md-color-scheme="darkish"] h1 {
+    color: #c5beab; /* Replace with your desired color for dark mode */
+}
