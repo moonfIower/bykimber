@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "services.md",
+                "file": "writing-guide/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "services"
+              "title": "index"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "services.md",
+                "file": "writing-guide/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of services"
+              "title": "Outline of index"
             }
           }
         ],
@@ -168,19 +168,19 @@
   },
   "active": "da3154a78a89c4f4",
   "lastOpenFiles": [
-    "index.md",
+    "grammar-guide/index.md",
+    "services.md",
+    "reading-list.md",
     "about.md",
+    "index.md",
     "book-projects/1. The Dragon Witch.md",
     "book-projects/index.md",
     "grammar-guide/8. Numbers.md",
-    "services.md",
     "assets/Book Projects Progress.png",
     "book-projects/2. TEETH.md",
     "book-projects/3. The Butterfly House.md",
     "book-projects/4. The Hidden.md",
-    "grammar-guide/index.md",
     "writing-guide/index.md",
-    "reading-list.md",
     "writing-guide/writing-tips.md",
     "grammar-guide/2. Copyediting.md",
     "grammar-guide/1. Substantive Editing.md",

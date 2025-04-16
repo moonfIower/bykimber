@@ -23,7 +23,9 @@ Read more articles by Kimber on the Medium, Cash Academy, and Scryp Law blogs.
 [Medium Blog](https://medium.com/@kimberseverance) | [Cash Academy Blog](https://www.checkcity.com/blog) | [Scryp Law Blog](https://www.scryplegalfunding.com/pages/blog)
 ## Subscribe
 
-<iframe src="https://kimberseverance.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<div style="display: flex; justify-content: center;">
+  <iframe src="https://kimberseverance.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+</div>
 
 [Subscribe via Substack]([https://substack.com/@kimberseverance)
 
