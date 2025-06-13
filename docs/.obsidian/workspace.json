@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-projects/index.md",
+                "file": "book-projects/book-projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "book-projects"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-projects/index.md",
+                "file": "book-projects/book-projects.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of book-projects"
             }
           }
         ],
@@ -166,11 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da3154a78a89c4f4",
+  "active": "eadf719c3a7cbccb",
   "lastOpenFiles": [
     "book-projects/teeth.md",
     "index.md",
-    "book-projects/index.md",
+    "book-projects/book-projects.md",
     "book-projects/butterfly-house.md",
     "book-projects/dragon-witch.md",
     "book-projects/the-hidden.md",
