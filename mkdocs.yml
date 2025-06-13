@@ -7,7 +7,9 @@ nav:
   - Home: index.md
   - About: about.md
   - Services: services.md
-  - Book Projects: book-projects/index.md
+  - Book Projects: 
+    - book-projects/index.md
+    - book-projects/dragon-witch.md
   - Grammar Guide: grammar-guide/index.md
   - Writing Guide: writing-guide/index.md
   - Reading List: reading-list.md
