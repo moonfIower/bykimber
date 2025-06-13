@@ -20,6 +20,7 @@ theme:
   name: 'material'
   logo: assets/logo.png
   features:
+    - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
     - toc.integrate
