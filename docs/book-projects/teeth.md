@@ -1,3 +1,5 @@
+# Teeth
+
 Teeth is a standalone fantasy novel that plays with the myths of mermaids and sirens, their origins, and their place in a world that has thus far, refused to see them.
 
 ### Book Progress

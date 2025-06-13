@@ -1,3 +1,5 @@
+# The Hidden
+
 The Hidden is a standalone fantasy novel about an ancient garden, a place of absolute beginnings found in myths across almost all societies, and what really happened to that hidden place.
 ### Book Progress
 

@@ -1,3 +1,5 @@
+# Dragon Witch
+
 The Dragon Witch series is a fantasy trilogy about the four witches of the apocalypse who are destined to bring about the end of the world and one young huntress's struggle to stop them.
 
 ## Book Series Progress

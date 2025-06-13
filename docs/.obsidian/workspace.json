@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-projects/index.md",
+                "file": "book-projects/the-hidden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "the-hidden"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-projects/index.md",
+                "file": "book-projects/the-hidden.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of the-hidden"
             }
           }
         ],
@@ -169,11 +169,11 @@
   "active": "da3154a78a89c4f4",
   "lastOpenFiles": [
     "book-projects/teeth.md",
-    "index.md",
-    "book-projects/index.md",
-    "book-projects/butterfly-house.md",
     "book-projects/dragon-witch.md",
+    "book-projects/butterfly-house.md",
+    "book-projects/index.md",
     "book-projects/the-hidden.md",
+    "index.md",
     "grammar-guide/2. Copyediting.md",
     "grammar-guide/1. Substantive Editing.md",
     "services.md",
