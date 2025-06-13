@@ -1,3 +1,5 @@
+# Book Projects
+
 Welcome to the hub for all my Book Projects. Here you'll find an outline of all my book projects and their current status. I'll try to keep the information here as up to date as possible so you know what's coming and roughly when. You'll also find fun links in here for any Spotify playlists or Pinterest boards I've created for these books. 
 
 Thanks for the support, I hope to have some published books out soon, and maybe you'll find yourself lost in those pages soon too!
