@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-projects/dragon-witch.md",
+                "file": "book-projects/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dragon-witch"
+              "title": "index"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-projects/dragon-witch.md",
+                "file": "book-projects/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dragon-witch"
+              "title": "Outline of index"
             }
           }
         ],
@@ -168,22 +168,22 @@
   },
   "active": "da3154a78a89c4f4",
   "lastOpenFiles": [
+    "book-projects/dragon-witch.md",
+    "book-projects/index.md",
+    "grammar-guide/2. Copyediting.md",
+    "grammar-guide/1. Substantive Editing.md",
+    "services.md",
     "writing-guide/index.md",
     "grammar-guide/index.md",
-    "services.md",
     "reading-list.md",
     "about.md",
     "index.md",
-    "book-projects/dragon-witch.md",
-    "book-projects/index.md",
     "grammar-guide/8. Numbers.md",
     "assets/Book Projects Progress.png",
     "book-projects/2. TEETH.md",
     "book-projects/3. The Butterfly House.md",
     "book-projects/4. The Hidden.md",
     "writing-guide/writing-tips.md",
-    "grammar-guide/2. Copyediting.md",
-    "grammar-guide/1. Substantive Editing.md",
     "writing-guide/0. Writing Prep Checklist.md",
     "writing-guide/Writing Process.md",
     "writing-guide/1. World Building.md",

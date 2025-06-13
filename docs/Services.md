@@ -8,6 +8,7 @@ I offer a wide variety of writing and editing services including beta reading, s
 | Essay Review        | Feedback and editing for academic tone, structure, formatting, thesis, and prompt.                                                 | $0.02 per word |
 | Copywriting         | Writing that includes articles, webpages, pamphlets, emails, advertisements, and other written materials for products or services. | $0.20 per word |
 | Ghostwriting        | Writing that is officially credited to the client as the author, often utilized for memoirs and autobiographies.                   | $1.00 per word |
+*Rates may vary depending on the project type and scope.*
 
 Submit project proposals for any services you'd like to use by **sending an email to kimberseverance@gmail.com.**
 
