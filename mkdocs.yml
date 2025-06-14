@@ -4,17 +4,40 @@ site_url: https://bykimber.com
 docs_dir: docs
 
 nav:
-  - Home : index.md
+  - Home: index.md
   - About: about-me.md
   - Services: my-services.md
-  - Book Projects: 
+  - Projects: 
     - book-projects/index.md
     - book-projects/dragon-witch.md
     - book-projects/butterfly-house.md
     - book-projects/teeth.md
     - book-projects/the-hidden.md
-  - Grammar Guide: grammar-guide/index.md
-  - Writing Guide: writing-guide/index.md
+  - Grammar Guide: 
+    - grammar-guide/index.md
+    - grammar-guide/substantive-editing.md
+    - grammar-guide/copyediting.md
+    - grammar-guide/phrases-of-speech.md
+    - grammar-guide/common-confusions.md
+    - grammar-guide/sentence-structures.md
+    - grammar-guide/pov-tense-tone.md
+    - grammar-guide/punctuation.md
+    - grammar-guide/numbers.md
+    - grammar-guide/style-guides.md
+    - grammar-guide/grammar-tips.md
+  - Writing Guide: 
+    - writing-guide/index.md
+    - writing-guide/prewriting-checklist.md
+    - writing-guide/writing-process.md
+    - writing-guide/world-building.md
+    - writing-guide/character-development.md
+    - writing-guide/theme-work.md
+    - writing-guide/story-outlining.md
+    - writing-guide/chapter-outlining.md
+    - writing-guide/genre-guidelines.md
+    - writing-guide/inclusive-language.md
+    - writing-guide/manuscript-formatting.md
+    - writing-guide/writing-tips.md
   - Reading List: reading-list.md
 
 use_directory_urls: true
