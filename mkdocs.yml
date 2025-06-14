@@ -49,7 +49,6 @@ theme:
     - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.expand
     - toc.integrate
   palette:
     # Light mode
