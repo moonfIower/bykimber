@@ -46,12 +46,12 @@ theme:
   name: 'material'
   logo: assets/logo.png
   features:
-    - navigation.sections
+    - nvagiation.indexes
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.sections
     - navigation.path
     - navigation.prune
-    - nvagiation.indexes
     - toc.integrate
   palette:
     # Light mode
