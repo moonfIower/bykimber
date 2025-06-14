@@ -1,3 +1,5 @@
+# About
+
 ![[Edited Profile Picture.png]]
 
 Kimber Severance is a professional writer and editor with a great love for linguistics, literature, and story. She is originally from Pennsylvania but currently lives in Utah where she works as an article writer and manuscript editor.

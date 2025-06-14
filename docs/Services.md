@@ -1,3 +1,5 @@
+# Service
+
 I offer a wide variety of writing and editing services including beta reading, substantive editing, copyediting, essay reviewing, copywriting, and ghost writing. If you have any questions or are looking for a price estimate on a specific project proposal, just email me and I'll get back to you as soon as I can. 
 
 | **SERVICE**         | **DESCRIPTION**                                                                                                                    | **RATE**       |
