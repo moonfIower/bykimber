@@ -2,16 +2,17 @@
 
 Teeth is a standalone fantasy novel that plays with the myths of mermaids and sirens, their origins, and their place in a world that has thus far, refused to see them.
 
+Ulla lived a rich life surrounded by beautiful things, even more so after her father moved their family to Port Aetheria, the underwater ocean paradise her father built. When she met Roe, her father's best underwater spear hunter, and falls in love, her life seemed like it couldn't be more complete. That is, until Roe's secret finally catches up to him, and their love might not survive its teeth.
+
 ### Book Progress
 
-![[Teeth Book Progress.png]]
-Current Status = backlogged. I'm trying to focus more in my writing endeavors to actually start completing projects instead of endlessly starting new ones. So until the Dragon Witch series is published, this next project will be on the backburner for now.
-## TEETH
 **Status:** in progress, 20% complete
 
 **Publish Date:** TBA
 
-Ulla lived a rich life surrounded by beautiful things, even more so after her father moved their family to Port Aetheria, the underwater ocean paradise her father built. When she met Roe, her father's best underwater spear hunter, and falls in love, her life seemed like it couldn't be more complete. That is, until Roe's secret finally catches up to him, and their love might not survive its teeth.
+![[Teeth Book Progress.png]]
+
+Current Status = backlogged. I'm trying to focus more in my writing endeavors to actually start completing projects instead of endlessly starting new ones. So until the Dragon Witch series is published, this next project will be on the backburner for now.
 
 ![[Teeth Cover.png]]
 

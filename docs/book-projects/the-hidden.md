@@ -3,13 +3,13 @@
 The Hidden is a standalone fantasy novel about an ancient garden, a place of absolute beginnings found in myths across almost all societies, and what really happened to that hidden place.
 ### Book Progress
 
-![[Hidden Book Progress.png]]
-Current Status = backlogged. I'm trying to focus more in my writing endeavors to actually start completing projects instead of endlessly starting new ones. So until the Dragon Witch series is published, this next project will be on the backburner for now.
-
-## The Hidden
 **Status:** in progress, 8% complete
 
 **Publish Date:** TBA
+
+![[Hidden Book Progress.png]]
+
+Current Status = backlogged. I'm trying to focus more in my writing endeavors to actually start completing projects instead of endlessly starting new ones. So until the Dragon Witch series is published, this next project will be on the backburner for now.
 
 ![[Hidden Cover.png]]
 

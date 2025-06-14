@@ -4,13 +4,14 @@ The Dragon Witch series is a fantasy trilogy about the four witches of the apoca
 
 ## Book Series Progress
 
+**Status:** completed, currently in developmental editing
+
+**Publish Date:** August 2025
+
 ![[Dragon Witch Series Progress (1).png]]
 
 Current Status = books 1 and 2 are almost ready to launch the series! Here you'll find a chart showing the progress of each book. I shoot for about 40 chapters per book. The first installment of the Dragon Witch series is complete! I'm now in the process of editing it to perfection for publishing and making sure all my plot points are neatly tied together from book to book. The second installment is also well underway and actually ahead of schedule!
 ## The Dragon Witch (Book 1)
-**Status:** completed, currently in developmental editing
-
-**Publish Date:** August 2025
 
 Arlo Silverbane didn't have a lot of experience with belonging. But that didn't matter so long as she fulfilled her role, as the most promising up-and-coming hunter in the Norwen witch hunting clan. Her sole purpose is to track down and eviscerate the demon familiars the witches of long ago left behind, and she's damn good at her job. That is, until she's accused of being one of them, one of the very things she was raised to hunt and kill . . .
 
