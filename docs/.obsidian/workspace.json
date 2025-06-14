@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-projects/index.md",
+                "file": "about-me.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "about-me"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-projects/index.md",
+                "file": "about-me.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of about-me"
             }
           }
         ],
@@ -169,14 +169,18 @@
   },
   "active": "da3154a78a89c4f4",
   "lastOpenFiles": [
+    "index.md",
     "reading-list.md",
+    "my-services.md",
+    "writing-guide/index.md",
+    "grammar-guide/index.md",
+    "book-projects/index.md",
     "writing-guide/prewriting-checklist.md",
     "writing-guide/chapter-outlining.md",
     "book-projects/the-hidden.md",
     "book-projects/teeth.md",
     "book-projects/dragon-witch.md",
     "book-projects/butterfly-house.md",
-    "my-services.md",
     "about-me.md",
     "grammar-guide/substantive-editing.md",
     "grammar-guide/copyediting.md",
@@ -188,13 +192,9 @@
     "grammar-guide/numbers.md",
     "grammar-guide/style-guides.md",
     "grammar-guide/grammar-tips.md",
-    "grammar-guide/index.md",
     "writing-guide/writing-process.md",
     "writing-guide/world-building.md",
     "writing-guide/character-development.md",
-    "writing-guide/story-outlining.md",
-    "writing-guide/theme-work.md",
-    "writing-guide/Figures of Speech.md",
     "Untitled",
     "assets/Book Projects Progress.png",
     "assets/Edited Profile Picture.png",
