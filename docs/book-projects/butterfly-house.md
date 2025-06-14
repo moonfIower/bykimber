@@ -16,9 +16,9 @@ Diana is a modest girl with a great passion for the arts who, through a great de
 
 ![[Butterfly House Cover.png]]
 
-### The Butterfly House Playlist
+### Playlist
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1gt5gyb3sMQLMv1tQTleSX?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-### [The Butterfly House Pinterest Board](https://www.pinterest.com/bykimberseverance/the-butterfly-house-book-board/)
+### [Pinterest Board](https://www.pinterest.com/bykimberseverance/the-butterfly-house-book-board/)
 
 **Genres:** New Adult, Fiction, Dark Low Fantasy, Strong Female Leads, Magic, Wild Magic, Witches, Witchcraft, Pagan Practices, Reincarnation, Polytheism, Romance, Sapphic Romance, Revenge, Secret Identity, Star-Crossed Lovers, Destiny, Fate, Prophecy, Reluctant Heroine, Corrupt King, Corrupt Society, Person vs Society, Person vs Self, Person vs Prophecy

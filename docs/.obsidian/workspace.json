@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my-services.md",
+                "file": "book-projects/the-hidden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "my-services"
+              "title": "the-hidden"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "my-services.md",
+                "file": "book-projects/the-hidden.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of my-services"
+              "title": "Outline of the-hidden"
             }
           }
         ],
@@ -168,6 +168,10 @@
   },
   "active": "da3154a78a89c4f4",
   "lastOpenFiles": [
+    "book-projects/teeth.md",
+    "book-projects/butterfly-house.md",
+    "book-projects/dragon-witch.md",
+    "my-services.md",
     "about-me.md",
     "grammar-guide/substantive-editing.md",
     "grammar-guide/copyediting.md",
@@ -190,10 +194,6 @@
     "writing-guide/Figures of Speech.md",
     "writing-guide/genre-guidelines.md",
     "writing-guide/inclusive-language.md",
-    "writing-guide/manuscript-formatting.md",
-    "writing-guide/writing-tips.md",
-    "writing-guide/Writing Playlists.md",
-    "writing-guide/Writing Mediums.md",
     "Untitled",
     "assets/Book Projects Progress.png",
     "assets/Edited Profile Picture.png",

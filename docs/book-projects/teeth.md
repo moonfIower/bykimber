@@ -15,10 +15,10 @@ Ulla lived a rich life surrounded by beautiful things, even more so after her fa
 
 ![[Teeth Cover.png]]
 
-### TEETH Playlist
+### Playlist
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2AMoa892E3Ia9rMFLpCL9U?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-### [TEETH Pinterest Board](https://www.pinterest.com/bykimberseverance/teeth-book-board/)
+### [Pinterest Board](https://www.pinterest.com/bykimberseverance/teeth-book-board/)
 
 **Genres:** New Adult, Fiction, Strong Female Leads, Romance, Revenge, Secret Identity, Star-Crossed Lovers, Mermaids, Sirens, Myths, Person vs Self, Person vs Nature.
