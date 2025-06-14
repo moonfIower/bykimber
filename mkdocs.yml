@@ -1,5 +1,5 @@
 site_name: ByKimber.com
-site_url: https://bykimber.com
+site_url: https://www.bykimber.com
 
 docs_dir: docs
 
@@ -73,7 +73,7 @@ plugins:
       enable_wikilinks: true
 
 extra:
-  homepage: https://bykimber.com
+  cname: https://www.bykimber.com
 
 markdown_extensions:
   - footnotes
