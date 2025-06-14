@@ -7,7 +7,7 @@ nav:
   - Home: index.md
   - About: about-me.md
   - Services: my-services.md
-  - Projects: 
+  - My Projects: 
     - book-projects/index.md
     - book-projects/dragon-witch.md
     - book-projects/butterfly-house.md
