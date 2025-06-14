@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "reading-list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "reading-list"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md",
+                "file": "reading-list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of about"
+              "title": "Outline of reading-list"
             }
           }
         ],
@@ -169,8 +169,8 @@
   "active": "da3154a78a89c4f4",
   "lastOpenFiles": [
     "index.md",
-    "reading-list.md",
     "about.md",
+    "reading-list.md",
     "services.md",
     "Untitled",
     "grammar-guide/index.md",
