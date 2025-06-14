@@ -1,3 +1,5 @@
+# Genre Guidelines
+
 First there is Fiction vs Nonfiction. Then there are the following genres and also targeted age groups. 
 
 - Mystery

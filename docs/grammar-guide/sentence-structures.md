@@ -1,3 +1,5 @@
+# Sentence Structures
+
 ## Passive Voice
 Passive voice is a sentence with a passive sentence pattern
 *Object + Verb + by + Subject*

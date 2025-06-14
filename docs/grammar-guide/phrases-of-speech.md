@@ -1,3 +1,5 @@
+# Phrases of Speech
+
 phrases of speech are essentially what we call different types of words, or "the vocabulary of words."
 ## Antecedent
 An antecedent is the **noun** a *pronoun* is referencing. The antecedent should appear before the pronoun used to replace it to avoid any ambiguity.

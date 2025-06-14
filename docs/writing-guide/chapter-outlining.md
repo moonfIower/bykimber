@@ -1,3 +1,5 @@
+# Chapter Outlining
+
 ## Beginning
 Introducing . . . (new information)
 ## Middle

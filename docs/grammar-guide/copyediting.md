@@ -1,3 +1,5 @@
+# Copyediting
+
 ## What is Copyediting?
 
 **Copyediting** includes tracked changes to correct grammar, misspellings, and formatting. This type of editing includes edits that are necessary, rather than suggestions. It can sometimes be referred to as proofreading, though proofreading is specifically copyediting the "proof" or final copy that has been formatted for publishing.

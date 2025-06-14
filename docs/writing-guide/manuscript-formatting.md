@@ -1,3 +1,5 @@
+# Manuscript Formatting
+
 [How to Format a Novel for Submission - CMOS Shop Talk](https://cmosshoptalk.com/2021/01/12/how-to-format-a-novel-for-submission/) 
 
 One-inch margins all around

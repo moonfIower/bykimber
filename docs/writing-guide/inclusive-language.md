@@ -1,3 +1,5 @@
+# Inclusive Language
+
 Inclusive language is important because it makes content more accessible so it can reach a wider audience. It also protects the company from getting into trouble with compliance or public relations ([see also](https://nasaa-arts.org/nasaa_research/inclusive-language-guide/)).
 
 Using generic male pronouns like "man" and "he" to refer to everyone is no longer common practice.

@@ -1,3 +1,5 @@
+# Writing Process
+
 The writing process is the process or steps a writer goes through to complete a writing piece. This process can also include other people, not just the writer, who help take the piece of writing through the steps it needs to go through to be publisher ready.                             
 
 Each writer has their own personal writing process and routine. Some writers like to write spontaneously, whenever inspiration decides to strike, while other writers can be very methodical about their process. 

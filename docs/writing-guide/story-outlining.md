@@ -1,3 +1,5 @@
+# Story Outlining
+
 Every story has a beginning, a middle, and an end. You want all main points and points in between to be delicious to the reader, whether those points are a salty or sweet kind of delicious. 
 
 [Story Structure: 7 Narrative Structures All Writers Should Know](https://blog.reedsy.com/guide/story-structure/)

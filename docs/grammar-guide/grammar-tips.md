@@ -1,3 +1,5 @@
+# Grammar Tips
+
 ## Acronyms 
 When referencing a term for the first time, spell it out and include the acronym in parentheses immediately after the word. When referencing the term again you can now use the acronym by itself. 
 

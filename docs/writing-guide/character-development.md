@@ -1,3 +1,5 @@
+# Character Development
+
 <iframe src="https://docs.google.com/spreadsheets/d/1-PFwFH-bzkGBlegtQXRrPMQpiWTlDuHnya-kZEq_qlw/edit?usp=sharing" width="640" height="480"></iframe>
 
 Utilize a spreadsheet like this example to create a character guide that neatly lists and organizes key details about all your characters. Which details are pertinent to you will depend on your story, but here is a breakdown of most of the basic character traits you might want to consider.

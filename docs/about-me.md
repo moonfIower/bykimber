@@ -1,4 +1,4 @@
-# About
+# About Me
 
 ![[Edited Profile Picture.png]]
 
